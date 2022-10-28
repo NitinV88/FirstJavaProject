@@ -1,5 +1,8 @@
 package CucumberOptions;
 
 public class TestNgRunner {
-	//System.out.println()
+	
+	public void PrintMessage() {
+		System.out.println("IST person changes the code");
+	}
 }
